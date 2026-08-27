@@ -1,0 +1,308 @@
+{
+  "service": "Discord",
+  "length": 3,
+  "checked": 100,
+  "mode": "Random",
+  "date": "2026-08-22T09:40:08.351556",
+  "available": 0,
+  "taken": 0,
+  "invalid": 0,
+  "unknown": 42,
+  "errors": 0,
+  "results": [
+    {
+      "username": "wdl",
+      "status": "UNKNOWN",
+      "platform": "Discord",
+      "profile_url": null,
+      "message": "HTTP 401"
+    },
+    {
+      "username": "p84",
+      "status": "UNKNOWN",
+      "platform": "Discord",
+      "profile_url": null,
+      "message": "HTTP 401"
+    },
+    {
+      "username": "an1",
+      "status": "UNKNOWN",
+      "platform": "Discord",
+      "profile_url": null,
+      "message": "HTTP 401"
+    },
+    {
+      "username": "8nu",
+      "status": "UNKNOWN",
+      "platform": "Discord",
+      "profile_url": null,
+      "message": "HTTP 401"
+    },
+    {
+      "username": "rx2",
+      "status": "UNKNOWN",
+      "platform": "Discord",
+      "profile_url": null,
+      "message": "HTTP 401"
+    },
+    {
+      "username": "akc",
+      "status": "UNKNOWN",
+      "platform": "Discord",
+      "profile_url": null,
+      "message": "HTTP 401"
+    },
+    {
+      "username": "wy7",
+      "status": "UNKNOWN",
+      "platform": "Discord",
+      "profile_url": null,
+      "message": "HTTP 401"
+    },
+    {
+      "username": "h4p",
+      "status": "UNKNOWN",
+      "platform": "Discord",
+      "profile_url": null,
+      "message": "HTTP 401"
+    },
+    {
+      "username": "x2s",
+      "status": "UNKNOWN",
+      "platform": "Discord",
+      "profile_url": null,
+      "message": "HTTP 401"
+    },
+    {
+      "username": "hrr",
+      "status": "UNKNOWN",
+      "platform": "Discord",
+      "profile_url": null,
+      "message": "HTTP 401"
+    },
+    {
+      "username": "vum",
+      "status": "UNKNOWN",
+      "platform": "Discord",
+      "profile_url": null,
+      "message": "HTTP 401"
+    },
+    {
+      "username": "b8x",
+      "status": "UNKNOWN",
+      "platform": "Discord",
+      "profile_url": null,
+      "message": "HTTP 401"
+    },
+    {
+      "username": "aja",
+      "status": "UNKNOWN",
+      "platform": "Discord",
+      "profile_url": null,
+      "message": "HTTP 401"
+    },
+    {
+      "username": "dzj",
+      "status": "UNKNOWN",
+      "platform": "Discord",
+      "profile_url": null,
+      "message": "HTTP 401"
+    },
+    {
+      "username": "yy8",
+      "status": "UNKNOWN",
+      "platform": "Discord",
+      "profile_url": null,
+      "message": "HTTP 401"
+    },
+    {
+      "username": "n50",
+      "status": "UNKNOWN",
+      "platform": "Discord",
+      "profile_url": null,
+      "message": "HTTP 401"
+    },
+    {
+      "username": "zus",
+      "status": "UNKNOWN",
+      "platform": "Discord",
+      "profile_url": null,
+      "message": "HTTP 401"
+    },
+    {
+      "username": "99r",
+      "status": "UNKNOWN",
+      "platform": "Discord",
+      "profile_url": null,
+      "message": "HTTP 401"
+    },
+    {
+      "username": "2e4",
+      "status": "UNKNOWN",
+      "platform": "Discord",
+      "profile_url": null,
+      "message": "HTTP 401"
+    },
+    {
+      "username": "ig1",
+      "status": "UNKNOWN",
+      "platform": "Discord",
+      "profile_url": null,
+      "message": "HTTP 401"
+    },
+    {
+      "username": "ybk",
+      "status": "UNKNOWN",
+      "platform": "Discord",
+      "profile_url": null,
+      "message": "HTTP 401"
+    },
+    {
+      "username": "kk5",
+      "status": "UNKNOWN",
+      "platform": "Discord",
+      "profile_url": null,
+      "message": "HTTP 401"
+    },
+    {
+      "username": "fmc",
+      "status": "UNKNOWN",
+      "platform": "Discord",
+      "profile_url": null,
+      "message": "HTTP 401"
+    },
+    {
+      "username": "460",
+      "status": "UNKNOWN",
+      "platform": "Discord",
+      "profile_url": null,
+      "message": "HTTP 401"
+    },
+    {
+      "username": "qpa",
+      "status": "UNKNOWN",
+      "platform": "Discord",
+      "profile_url": null,
+      "message": "HTTP 401"
+    },
+    {
+      "username": "51a",
+      "status": "UNKNOWN",
+      "platform": "Discord",
+      "profile_url": null,
+      "message": "HTTP 401"
+    },
+    {
+      "username": "79w",
+      "status": "UNKNOWN",
+      "platform": "Discord",
+      "profile_url": null,
+      "message": "HTTP 401"
+    },
+    {
+      "username": "p19",
+      "status": "UNKNOWN",
+      "platform": "Discord",
+      "profile_url": null,
+      "message": "HTTP 401"
+    },
+    {
+      "username": "fah",
+      "status": "UNKNOWN",
+      "platform": "Discord",
+      "profile_url": null,
+      "message": "HTTP 401"
+    },
+    {
+      "username": "zya",
+      "status": "UNKNOWN",
+      "platform": "Discord",
+      "profile_url": null,
+      "message": "HTTP 401"
+    },
+    {
+      "username": "57o",
+      "status": "UNKNOWN",
+      "platform": "Discord",
+      "profile_url": null,
+      "message": "HTTP 401"
+    },
+    {
+      "username": "hnf",
+      "status": "UNKNOWN",
+      "platform": "Discord",
+      "profile_url": null,
+      "message": "HTTP 401"
+    },
+    {
+      "username": "llx",
+      "status": "UNKNOWN",
+      "platform": "Discord",
+      "profile_url": null,
+      "message": "HTTP 401"
+    },
+    {
+      "username": "ujr",
+      "status": "UNKNOWN",
+      "platform": "Discord",
+      "profile_url": null,
+      "message": "HTTP 401"
+    },
+    {
+      "username": "po0",
+      "status": "UNKNOWN",
+      "platform": "Discord",
+      "profile_url": null,
+      "message": "HTTP 401"
+    },
+    {
+      "username": "6jt",
+      "status": "UNKNOWN",
+      "platform": "Discord",
+      "profile_url": null,
+      "message": "HTTP 401"
+    },
+    {
+      "username": "ju3",
+      "status": "UNKNOWN",
+      "platform": "Discord",
+      "profile_url": null,
+      "message": "HTTP 401"
+    },
+    {
+      "username": "g1x",
+      "status": "UNKNOWN",
+      "platform": "Discord",
+      "profile_url": null,
+      "message": "HTTP 401"
+    },
+    {
+      "username": "ox8",
+      "status": "UNKNOWN",
+      "platform": "Discord",
+      "profile_url": null,
+      "message": "HTTP 401"
+    },
+    {
+      "username": "e65",
+      "status": "UNKNOWN",
+      "platform": "Discord",
+      "profile_url": null,
+      "message": "HTTP 401"
+    },
+    {
+      "username": "xvn",
+      "status": "UNKNOWN",
+      "platform": "Discord",
+      "profile_url": null,
+      "message": "HTTP 401"
+    },
+    {
+      "username": "o62",
+      "status": "UNKNOWN",
+      "platform": "Discord",
+      "profile_url": null,
+      "message": "HTTP 401"
+    }
+  ]
+}

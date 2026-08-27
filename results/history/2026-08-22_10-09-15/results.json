@@ -1,0 +1,70 @@
+{
+  "service": "Discord",
+  "length": 3,
+  "checked": 10000,
+  "mode": "Random",
+  "date": "2026-08-22T10:09:15.637558",
+  "available": 0,
+  "taken": 0,
+  "invalid": 0,
+  "unknown": 8,
+  "errors": 0,
+  "results": [
+    {
+      "username": "qej",
+      "status": "UNKNOWN",
+      "platform": "Discord",
+      "profile_url": null,
+      "message": "HTTP 401"
+    },
+    {
+      "username": "uoj",
+      "status": "UNKNOWN",
+      "platform": "Discord",
+      "profile_url": null,
+      "message": "HTTP 401"
+    },
+    {
+      "username": "oum",
+      "status": "UNKNOWN",
+      "platform": "Discord",
+      "profile_url": null,
+      "message": "HTTP 401"
+    },
+    {
+      "username": "wff",
+      "status": "UNKNOWN",
+      "platform": "Discord",
+      "profile_url": null,
+      "message": "HTTP 401"
+    },
+    {
+      "username": "ker",
+      "status": "UNKNOWN",
+      "platform": "Discord",
+      "profile_url": null,
+      "message": "HTTP 401"
+    },
+    {
+      "username": "bza",
+      "status": "UNKNOWN",
+      "platform": "Discord",
+      "profile_url": null,
+      "message": "HTTP 401"
+    },
+    {
+      "username": "zso",
+      "status": "UNKNOWN",
+      "platform": "Discord",
+      "profile_url": null,
+      "message": "HTTP 401"
+    },
+    {
+      "username": "hkj",
+      "status": "UNKNOWN",
+      "platform": "Discord",
+      "profile_url": null,
+      "message": "HTTP 401"
+    }
+  ]
+}
